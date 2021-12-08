@@ -1,8 +1,17 @@
 ﻿// See https://aka.ms/new-console-template for more information
 using AdventOfCode2021;
 
-Day5.Part2(Day5.sampleData);
-Day5.Part2(Day5.realData);
+Day6.Part1(Day6.SampleData);
+Day6.Part1(Day6.ActualData);
+
+//Day4.Part2(@"Input\Day4Sample.txt");
+//Day4.Part2(@"Input\Day4.txt");
+
+//Day8.Part2(@"Input\Day8Sample.txt");
+//Day8.Part2(@"Input\Day8.txt");
+
+//Day5.Part2(Day5.sampleData);
+//Day5.Part2(Day5.realData);
 
 //Day5.Part1(Day5.sampleData);
 //Day5.Part1(Day5.realData);
